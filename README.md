@@ -49,8 +49,9 @@ This project demonstrates practical applications of **AI in autonomous driving a
 ---
 
 ## 🎥 Demo Video
-👉 Watch the full project demo below:
+The video below shows a basic demonstration of the system in action, including real-time traffic sign detection and classification using a test video input.
 
+👉 Watch here:  
 https://drive.google.com/file/d/1QYh3Wog2SkprvJNMwy3SmMMyWCNNCuzb/preview
 
 ---
