@@ -45,10 +45,13 @@ After a speed sign is detected by YOLOv8:
 
 Supported speed categories include:
 
+- 20 km/h
 - 30 km/h
+- 40 km/h
 - 50 km/h
 - 60 km/h
 - 70 km/h
+- 80 km/h
 - 90 km/h
 - 110 km/h
 
